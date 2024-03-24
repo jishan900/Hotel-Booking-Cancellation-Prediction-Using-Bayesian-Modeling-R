@@ -1,5 +1,5 @@
 # Hotel Booking Cancellation Prediction Using Bayesian Modeling-R-Final
-**Group 28 **
+**Group 28**
 
 Members Names: Ayan Kumar Ghosh, Vikas Singh, Md Asifuzzaman Jishan
 
