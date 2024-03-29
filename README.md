@@ -5,3 +5,5 @@ Data set: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancell
 **Research Question:** Can we accurately predict hotel booking cancellations and identify key factors influencing cancellation using Bayesian Models?
 
 **The applied method from Bayesian Models:**
+# Model 1
+## Setting up seed & the priors and formulate the Bayesian Logistic Regression formula
