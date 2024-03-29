@@ -4,7 +4,7 @@
 
 **Research Question:** Can we accurately predict hotel booking cancellations and identify key factors influencing cancellation using Bayesian Models?
 
-**The applied method from Bayesian Models:**
+# The applied method from Bayesian Models:
 # Model 1
 **Summary of Bayesian Logistic Regression:**
 
