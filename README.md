@@ -40,3 +40,8 @@ Data set: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancell
 # Model Comparison Using LOO-CV
 
 ![image](https://github.com/jishan900/Hotel-Booking-Cancellation-Prediction-Using-Bayesian-Modeling-R/assets/32738421/87b5fa9f-4e00-49e4-9fb4-ccd8702ad64a)
+
+
+# Out-of-Sample Prediction
+![image](https://github.com/jishan900/Hotel-Booking-Cancellation-Prediction-Using-Bayesian-Modeling-R/assets/32738421/e249eee3-c616-42ea-99fd-4af6ef1b41f6)
+
