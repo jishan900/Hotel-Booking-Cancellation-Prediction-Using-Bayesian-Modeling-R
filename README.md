@@ -6,4 +6,7 @@ Data set: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancell
 
 **The applied method from Bayesian Models:**
 # Model 1
-## Setting up seed & the priors and formulate the Bayesian Logistic Regression formula
+Bayesian Logistic Regression formula
+
+# Model 2
+Binomial Beta formula
