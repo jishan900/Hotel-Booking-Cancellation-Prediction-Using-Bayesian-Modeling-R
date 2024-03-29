@@ -1,4 +1,4 @@
-# Hotel Booking Cancellation Prediction Using Bayesian Modeling-R-Final
+# Hotel Booking Cancellation Prediction Using Bayesian Modeling 
 
 Data set: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction/data
 
