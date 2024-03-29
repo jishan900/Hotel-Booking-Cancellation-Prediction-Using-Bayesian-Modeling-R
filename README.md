@@ -35,3 +35,6 @@ Data set: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancell
 **Posterior predictive check:**
 
 ![image](https://github.com/jishan900/Hotel-Booking-Cancellation-Prediction-Using-Bayesian-Modeling-R/assets/32738421/2a98385b-b7b8-4d5d-bdcc-ad2b884c5a23)
+
+
+# Model Comparison Using LOO-CV
