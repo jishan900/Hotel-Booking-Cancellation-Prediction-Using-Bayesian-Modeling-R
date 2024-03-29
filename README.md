@@ -14,6 +14,10 @@ MCMC plot representation of Bayesian Logistic Regression model for hotel booking
 
 ![image](https://github.com/jishan900/Hotel-Booking-Cancellation-Prediction-Using-Bayesian-Modeling-R/assets/32738421/0efc0b92-2656-496a-9a94-7c4c51c639c4)
 
+Posterior predictive check:
+
+![image](https://github.com/jishan900/Hotel-Booking-Cancellation-Prediction-Using-Bayesian-Modeling-R/assets/32738421/64d38fc7-ca56-46fc-965b-5c1c8985fd64)
+
 
 
 # Model 2
