@@ -20,6 +20,7 @@
 
 
 
+
 # Model 2: Binomial Beta Model
 **Summary:**
 
