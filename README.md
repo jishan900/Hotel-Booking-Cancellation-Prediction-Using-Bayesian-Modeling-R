@@ -38,6 +38,7 @@
 ![image](https://github.com/jishan900/Hotel-Booking-Cancellation-Prediction-Using-Bayesian-Modeling-R/assets/32738421/2a98385b-b7b8-4d5d-bdcc-ad2b884c5a23)
 
 
+
 # Model Comparison Using LOO-CV
 
 ![image](https://github.com/jishan900/Hotel-Booking-Cancellation-Prediction-Using-Bayesian-Modeling-R/assets/32738421/87b5fa9f-4e00-49e4-9fb4-ccd8702ad64a)
