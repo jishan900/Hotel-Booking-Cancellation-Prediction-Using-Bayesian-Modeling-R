@@ -18,7 +18,7 @@
 
 ![image](https://github.com/jishan900/Hotel-Booking-Cancellation-Prediction-Using-Bayesian-Modeling-R/assets/32738421/64d38fc7-ca56-46fc-965b-5c1c8985fd64)
 
-
+ 
 
 
 # Model 2: Binomial Beta Model
